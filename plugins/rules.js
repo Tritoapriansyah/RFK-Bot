@@ -34,12 +34,6 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Total user:* ${totalreg} *user*
 ╠➥ *Uptime:* ${uptime}
 ║
-╠═〘 DONASI 〙 ═
-╠➥ Pulsa : 0896-7776-3976
-╠➥ OVO : 0896-7776-3976
-╠➥ Dana : 0896-7776-3976
-╠➥ Gopay : 0896-7776-3976
-║
 ╠═ Request? ${package.bugs.url}
 ╠═ officiall Group *${conn.getName(conn.user.jid)}* :
 ${(global.linkGC).map((v, i) => '║ *Group ' + (i + 1) + '*\n║' + v).join`\n║\n`}
