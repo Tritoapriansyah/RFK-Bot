@@ -29,12 +29,12 @@ supaya saya menambahkan nama Anda disini
 >>> BOLEH MENAMBAHKAN, JANGAN MENGHILANGKAN <<<
 */
 
-global.linkGC = ['https://chat.whatsapp.com/invite/GLJ8l40brp3BcFodqch21J', 'https://chat.whatsapp.com/Lggj1Hl7p18ILA8gXsK2yi', 'https://chat.whatsapp.com/HBhy7rVae3o0PkIfkhvs2N'] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/BqnkSHeopVuIHJrm8vyJdi', 'https://chat.whatsapp.com/FVkvsGD5dav3LSM933GtJ6', 'https://chat.whatsapp.com/IXQ7PUQhfi2CYlzC0hll5h'] // ganti jadi group lu
 
 //Berbagai itu indah @Parel / Rxfly
-global.owner = ['6285721108765', '+62 857-2110-8765', '+62 857-2110-8765'] // Put your number here
-global.mods = ['2'] // Want some help?
-global.prems = ['1'] // Premium user has unlimited limit
+global.owner = ['6285888258313', '+62 858-8825-8313'] // Put your number here
+global.mods = ['6287771388699', '6287790006808'] // Want some help?
+global.prems = ['6285888258313', '6287771388699', '6287790006808'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -48,19 +48,19 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey' (apikey kalian)
-  'https://api.xteam.xyz': 'expired',
-  'https://api.lolhuman.xyz': 'rey2k21',
+  'https://api.xteam.xyz': 'af527965711d015d',
+  'https://api.lolhuman.xyz': 'af527965711d015d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.zeks.me': 'tritoapriansyah',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 // Sticker WM
-//global.packname = 'I hope you\'re fine'
-//global.author = 'LitRHap'
-global.packname = './RyuuZeyy\n\n\n./RyuuTod\n\n\n\n\nhttps://wa.me/message/MJKHC7377YLDA1\n\n\n\n\nwa.me/62896-7776-3976\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.author = ''
+//global.packname = 'LOLITA BOT '
+//global.author = '6285947731232'
+global.packname = 'LOLITA BOT /n made by trito'
+global.author = '6285947731232'
 
 // silakan di ganti klo mau
 global.wait = '_*tunggu..*_'
@@ -97,17 +97,17 @@ const time = mumet().tz('Asia/Jakarta').format("HH:mm:ss DD:MM:YYYY")
 sukses = 'Suksesss...'
 
 // Mau Apa Lu? Mau ubah apikey? Awokaaokaowk Bocil
-Lolkey = 'rey2k21'
-LolKey = 'rey2k21'
-lolkey = 'rey2k21'
-lolKey = 'rey2k21'
+Lolkey = 'af527965711d015d'
+LolKey = 'af527965711d015d'
+lolkey = 'af527965711d015d'
+lolKey = 'af527965711d015d'
 
 
-footer = '\n\n\n@ＪＥＭ － Ｂｏｔ'
-namabot = 'RAFA BOT'
+footer = 'MADE BY TRITO'
+namabot = 'LOLITA BOT'
 bc = namabot
 //bc = 'RAFA BOT'
-namaowner = 'RyuuZeyy'
+namaowner = 'Trito'
 ceco = 'Ganteng 🗿'
 let tum = fs.readFileSync('./gambar1.jpeg')
 let tum1 = fs.readFileSync('./gambar1.jpeg')
@@ -118,16 +118,16 @@ global.thumb1 = tum
 global.thumb2 = tum2
 global.thumb3 = tum3
 run = 'tes'
-gc1 = 'https://chat.whatsapp.com/invite/GLJ8l40brp3BcFodqch21J'
-gc2 = 'https://chat.whatsapp.com/Lggj1Hl7p18ILA8gXsK2yi'
+gc1 = 'https://chat.whatsapp.com/IXQ7PUQhfi2CYlzC0hll5h'
+gc2 = 'https://chat.whatsapp.com/BqnkSHeopVuIHJrm8vyJdi'
 linkf = gc1
 wm_rey = 'https://raw.githubusercontent.com/RTeam1/database/'
-namaig = 'RAFA BOT'
-namagh = 'https://github.com/RaffaStore5'
-kasihcaption = `support terus ${namaig}\ndan \n${namagh}`
-browsername = './RyuuTodd'
-titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'//'https://ryuuzeyy.xyz'
-body = './RyuuZeyy'
+namaig = 'ngak ada'
+namagh = 'https://github.com/Tritoapriansyah'
+kasihcaption = `support terus\n${namagh}`
+browsername = './Loli'
+titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
+body = './LOL'
 linkf = namagh
 // WM = ./ReyToddd
 // Function ini saya bikin karena saya malas ngetik
