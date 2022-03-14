@@ -1,6 +1,6 @@
 function handler(m) {
 //this.sendContact(m.chat, '0', 'Mark', m)
-this.sendContact(m.chat, '6289677763976', namaowner, m)
+this.sendContact(m.chat, '6285888258313', namaowner, m)
 }
 handler.help = ['owner', 'creator']
 handler.tags = ['info']
